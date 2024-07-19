@@ -4,7 +4,8 @@
 /*пример кода котлин*/
 fun main() {
     println("Hello, world!!!")
-}```
+}
+```
 
 
 ```java
@@ -14,4 +15,5 @@ public class Test {
       System.out.println("Hello world");   
    }
 }
-}```
+}
+```
