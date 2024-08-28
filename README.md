@@ -82,9 +82,9 @@ public class Test {
 
 ## Настройка git
 
-```git config --global user.name "User name"  — задать имя от которого будут коммиты
+```git config --global user.name "User name"```  — задать имя от которого будут коммиты
 
-```git config --global user.email email.ru  — задать эл.почту пользователя
+```git config --global user.email email.ru```  — задать эл.почту пользователя
 
 ```git config --list```  — посмотреть данные конфига
 
